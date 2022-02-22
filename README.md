@@ -1,10 +1,7 @@
 # auto_tests_course
-Test tasks
 
-Test 1
+Task completed: February 22, 2020
 
-Test 2
+Description:
 
-Test 3
-
-Tests completed.
+- Added a task file from the previous lesson (Section 2.4 - Setting expectations, step 8).
